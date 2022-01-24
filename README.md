@@ -31,7 +31,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
  
 <div> 
   <a href = "mailto:kaweesimartinanderson@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/martin-anderson-kaweesi-973123189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/Kaweesi-Martin-Anderson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
  
