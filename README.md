@@ -1,4 +1,4 @@
-# Hi, I'm Bukenya Kizza Roland 👋🏼 👨🏻‍💻
+# Hi, I'm Kaweesi Martin Anderson 👋🏼 👨🏻‍💻
 
 
 
@@ -11,9 +11,9 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
  ##
 
  <div>
-  <a href="https://github.com/Bkroland19">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Bkroland19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bkroland19&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/martinmyname">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=martinmyname&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinmyname&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -30,8 +30,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
   ##
  
 <div> 
-  <a href = "mailto:bkroland19@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eng-bukenya-kizza-roland-mongodb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:kaweesimartinanderson@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/martin-anderson-kaweesi-973123189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
  
