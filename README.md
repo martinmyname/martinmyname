@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a full-stack programmer passionate about the best web and mobile development technologies. By having experiences using Flutter,  React js , React Native and JavaScript. I always try to learn in practice about the most modern technologies of web and mobile development.
+I'm a Backend developer passionate about the best web development technologies. By having experiences using JavaScript, Nodejs, jQuery , expressjs, pug and basic html, css and bootstrap. I always try to learn in practice about the most modern technologies of web development.
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
