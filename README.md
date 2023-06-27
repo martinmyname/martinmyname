@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a Backend developer passionate about the best web development technologies. By having experiences using JavaScript, Nodejs, jQuery , expressjs, pug and basic html, css and bootstrap. I always try to learn in practice about the most modern technologies of web development.
+I'm an entrepreneur who thinks as a developer and vice versa. I have no respect for the status quo, not limited to solving problems in one field but any that comes my way. Have knowledge on various technologies Backend, Frontend, mobile development and life lessons in tech.
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
